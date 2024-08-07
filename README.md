@@ -10,6 +10,8 @@ This repository contains both the Android mobile application
 (`packages/services/api`).
 
 ## Requirements
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fserhanoztuna%2FGoatlin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fserhanoztuna%2FGoatlin?ref=badge_shield)
+
 
 To play with the mobile application you should have the following tools:
 
@@ -54,3 +56,6 @@ this program. If not, see https://www.gnu.org/licenses/.
 [2]: https://developer.android.com/studio/
 [3]: https://www.docker.com/
 [4]: https://docs.docker.com/compose/install/
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fserhanoztuna%2FGoatlin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fserhanoztuna%2FGoatlin?ref=badge_large)
